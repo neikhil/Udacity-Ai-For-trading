@@ -582,7 +582,7 @@ Alpha analysis:
 ### Question: What p-value did you observe? And what does that indicate about your signal?
 
 *#TODO: Put Answer In this Cell*
-since p is 0.07 at Alpha of 5% we cannot reject null hypothesis
+since p is 0.07 at Alpha of 5% we conclude we do not have sufficient evidence to reject null hypothesis.
 
 ## Submission
 Now that you're done with the project, it's time to submit it. Click the submit button in the bottom right. One of our reviewers will give you feedback on your project with a pass or not passed grade. You can continue to the next section while you wait for feedback.
